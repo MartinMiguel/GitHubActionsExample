@@ -1,5 +1,6 @@
 name: GitHub Actions Example
 on: push
+jobs:
   Example-Actions-Job:
     name: Exploring GitHub Actions
     runs-on: ubuntu-latest
